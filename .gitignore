@@ -1,2 +1,6 @@
 
 test/scratch.dart
+/.pub/
+/.packages
+/**/packages/
+/pubspec.lock
