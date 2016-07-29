@@ -4,3 +4,4 @@ test/scratch.dart
 /.packages
 /**/packages/
 /pubspec.lock
+/.idea/
